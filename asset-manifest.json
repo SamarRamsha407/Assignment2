@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/assignment2/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/assignment2/static/js/main.fc094a51.chunk.js",
+    "main.js.map": "/assignment2/static/js/main.fc094a51.chunk.js.map",
+    "runtime-main.js": "/assignment2/static/js/runtime-main.87487fa9.js",
+    "runtime-main.js.map": "/assignment2/static/js/runtime-main.87487fa9.js.map",
+    "static/js/2.c0a0a7e2.chunk.js": "/assignment2/static/js/2.c0a0a7e2.chunk.js",
+    "static/js/2.c0a0a7e2.chunk.js.map": "/assignment2/static/js/2.c0a0a7e2.chunk.js.map",
+    "static/js/3.c7b4a981.chunk.js": "/assignment2/static/js/3.c7b4a981.chunk.js",
+    "static/js/3.c7b4a981.chunk.js.map": "/assignment2/static/js/3.c7b4a981.chunk.js.map",
+    "index.html": "/assignment2/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/assignment2/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c0a0a7e2.chunk.js.LICENSE.txt": "/assignment2/static/js/2.c0a0a7e2.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/assignment2/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87487fa9.js",
+    "static/js/2.c0a0a7e2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.fc094a51.chunk.js"
+  ]
+}

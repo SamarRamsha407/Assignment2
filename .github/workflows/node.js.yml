@@ -29,12 +29,12 @@ jobs:
     - run: npm test
     - name: Deploy
       run: |
-       git config --global user.name $user_name
-       git config --global user.email $user_email 
+       git config --global user.name SamarRamsha407
+       git config --global user.email u2017407@giki.edu.pk
        git remote set-url origin https://1be2b9ef3e0b9a0652856a1d907f4011f132502c@github.com/SamarRamsha407/assignment2
        npm run deploy
       env:
        user_name: 'github-actions[bot]'
        user_email: 'github-actions[bot]@users.noreply.github.com'
        github_token: ${{ secrets.SAMAR_FATIMA  }}
-       repository: ${{ github.repository }} 
+       repository: ${{ github.assignment }} 

@@ -37,4 +37,4 @@ jobs:
        user_name: 'github-actions[bot]'
        user_email: 'github-actions[bot]@users.noreply.github.com'
        github_token: ${{ secrets.SAMAR_FATIMA  }}
-       repository: ${{ github.assignment }} 
+       repository: ${{ github.assignment2 }} 
